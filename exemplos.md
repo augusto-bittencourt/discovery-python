@@ -36,6 +36,6 @@
 
 - Método: `GET`
 - URL:
-    Para livros lidos: `http://localhost:5000/livros/status/lido`
-    Para livros sendo lidos: `http://localhost:5000/livros/status/lendo`
-    Para livros a serem lidos: `http://localhost:5000/livros/status/para ler`
+ - Para livros lidos: `http://localhost:5000/livros/status/lido`
+ - Para livros sendo lidos: `http://localhost:5000/livros/status/lendo`
+ - Para livros a serem lidos: `http://localhost:5000/livros/status/para ler`
